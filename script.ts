@@ -128,10 +128,10 @@ accessAllowed = (age > 18) ? true : false;
 
 // let c = +(prompt('введите число') as string)
 // if (c > 0) {
-// alert ("c")    
+// alert (c)    
 // }
 // else if (c==0)  {
-//     alert("0")    
+//     alert(0)    
 //     }
 // if (c < 0) {
 // alert (Math.abs(c))    
